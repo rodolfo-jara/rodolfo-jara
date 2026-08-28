@@ -1,147 +1,152 @@
 <div align="center">
 
-```
-╭──────────────────────────────────────────────╮
-│  rodolfo@dev-machine:~$ whoami                │
-╰──────────────────────────────────────────────╯
-```
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Rodolfo+Jara;Backend+Developer;Java+%26+Spring+Boot+Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:12121a,100:0a0a0f&height=160&section=header"/>
+
+<br/>
+
+<h1 align="center" style="font-weight:200; letter-spacing:8px; color:#e8e8f0;">RODOLFO&nbsp;JARA</h1>
+
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;S O F T W A R E &nbsp; D E V E L O P E R&nbsp;&nbsp;&nbsp;&nbsp;</sub>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=300&size=15&duration=4000&pause=1500&color=A9B4C2&center=true&vCenter=true&width=460&letterSpacing=1px&lines=Java+%C2%B7+Spring+Boot+%C2%B7+Microservicios;Arquitectura+limpia%2C+c%C3%B3digo+claro" />
+
+<br/><br/>
+
+<a href="https://rodolfo-jara.github.io/_/Pagina/index.html"><img src="https://img.shields.io/badge/PORTFOLIO-1a1a24?style=for-the-badge&labelColor=1a1a24&color=1a1a24"/></a>&nbsp;<a href="mailto:rjaralopez19@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a1a24?style=for-the-badge&labelColor=1a1a24&color=1a1a24"/></a>&nbsp;<a href="https://github.com/Rodolfo-Jara"><img src="https://img.shields.io/badge/GITHUB-1a1a24?style=for-the-badge&labelColor=1a1a24&color=1a1a24"/></a>
 
 </div>
 
 <br/>
 
-```bash
-$ cat perfil.txt
-```
-
-```yaml
-nombre: Rodolfo Jara
-rol: Software Developer
-formacion: Ingeniería en Informática y Computación
-enfoque: Backend · APIs REST · Microservicios
-estado: Buscando nuevas oportunidades
-```
+<img src="https://img.shields.io/badge/-%20-0a0a0f?style=flat-square&labelColor=0a0a0f" height="1" width="100%"/>
 
 <br/>
-
-```bash
-$ ls -la ./habilidades/
-```
-
-<table>
-<tr>
-<th align="left">📁 backend/</th>
-<th align="left">📁 frontend/</th>
-<th align="left">📁 database/</th>
-<th align="left">📁 tools/</th>
-</tr>
-<tr valign="top">
-<td>
-
-`Java`
-`Spring Boot`
-`Spring MVC`
-`Spring Security`
-`Spring Data JPA`
-`Hibernate`
-
-</td>
-<td>
-
-`Angular`
-`React`
-`HTML5`
-`CSS3`
-
-</td>
-<td>
-
-`MySQL`
-`SQL Server`
-`JDBC`
-
-</td>
-<td>
-
-`Git`
-`GitHub`
-`Azure`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-```bash
-$ ./run_arquitectura.sh --backend
-```
 
 <div align="center">
+
+### Perfil
+
+<sub>Ingeniero en Informática y Computación, enfocado en el desarrollo backend con Java y Spring Boot. Diseño soluciones con arquitectura de microservicios, priorizando código limpio y eficiente.</sub>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+### Stack
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=openjdk&logoColor=A9B4C2"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=springboot&logoColor=A9B4C2"/>
+<img src="https://img.shields.io/badge/Hibernate-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=hibernate&logoColor=A9B4C2"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MySQL-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=mysql&logoColor=A9B4C2"/>
+<img src="https://img.shields.io/badge/SQL%20Server-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=microsoftsqlserver&logoColor=A9B4C2"/>
+<img src="https://img.shields.io/badge/Azure-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=microsoftazure&logoColor=A9B4C2"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Angular-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=angular&logoColor=A9B4C2"/>
+<img src="https://img.shields.io/badge/React-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=react&logoColor=A9B4C2"/>
+<img src="https://img.shields.io/badge/Git-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=git&logoColor=A9B4C2"/>
+
+</div>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-%20-0a0a0f?style=flat-square&labelColor=0a0a0f" height="1" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+### Arquitectura
+
+<br/>
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#161b22','primaryBorderColor':'#00FF9C','primaryTextColor':'#00FF9C','lineColor':'#00FF9C','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {
+  'primaryColor':'#14141c',
+  'primaryBorderColor':'#3a3a4a',
+  'primaryTextColor':'#c9cddb',
+  'lineColor':'#3a3a4a',
+  'fontFamily':'Inter, sans-serif',
+  'fontSize':'13px'
+}}}%%
 flowchart LR
-    REQ([Cliente]) --> CTRL[["Controller"]]
-    CTRL --> SEC{{"Spring Security"}}
-    SEC --> SVC[["Service Layer"]]
-    SVC --> REPO[["Repository"]]
-    REPO --> DB[(Base de Datos)]
-    DB -.response.-> REQ
+    A(Cliente) --> B(Controller)
+    B --> C(Security)
+    C --> D(Service)
+    D --> E(Repository)
+    E --> F[(Base de Datos)]
+
+    style A fill:#14141c,stroke:#3a3a4a,rx:20,ry:20
+    style B fill:#14141c,stroke:#3a3a4a,rx:20,ry:20
+    style C fill:#14141c,stroke:#3a3a4a,rx:20,ry:20
+    style D fill:#14141c,stroke:#3a3a4a,rx:20,ry:20
+    style E fill:#14141c,stroke:#3a3a4a,rx:20,ry:20
+    style F fill:#14141c,stroke:#3a3a4a,rx:8,ry:8
 ```
 
-`>> Request → Controller → Security → Service → Repository → DB`
+<sub>Flujo de una petición a través de las capas de la aplicación</sub>
 
 </div>
 
-<br/>
+<br/><br/>
 
-```bash
-$ git log --oneline --author="Rodolfo Jara" -3
-```
+<img src="https://img.shields.io/badge/-%20-0a0a0f?style=flat-square&labelColor=0a0a0f" height="1" width="100%"/>
+
+<br/>
 
 <div align="center">
 
+### Proyecto
+
+<br/>
+
 <a href="https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodolfo-Jara&repo=ProyectoSistemaDeCalificaciones&theme=dark&hide_border=true&title_color=00FF9C&text_color=c9d1d9&bg_color=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodolfo-Jara&repo=ProyectoSistemaDeCalificaciones&theme=transparent&hide_border=true&title_color=c9cddb&text_color=6b7280&icon_color=A9B4C2"/>
 </a>
 
 </div>
 
-```bash
-$ curl -s api.github.com/users/rodolfo-jara/stats
-```
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-%20-0a0a0f?style=flat-square&labelColor=0a0a0f" height="1" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rodolfo-jara&show_icons=true&count_private=true&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&bg_color=0d1117"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-jara&layout=compact&hide_border=true&title_color=00FF9C&text_color=c9d1d9&bg_color=0d1117"/>
+### Estadísticas
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rodolfo-jara&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+<br/>
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=rodolfo-jara&show_icons=true&count_private=true&hide_border=true&title_color=c9cddb&icon_color=A9B4C2&text_color=6b7280&bg_color=00000000"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-jara&layout=compact&hide_border=true&title_color=c9cddb&text_color=6b7280&bg_color=00000000"/>
 
 </div>
 
-<br/>
+<br/><br/>
 
-```bash
-$ cat contacto.json
-```
-
-```json
-{
-  "email": "rjaralopez19@gmail.com",
-  "portfolio": "https://rodolfo-jara.github.io/_/Pagina/index.html",
-  "github": "github.com/Rodolfo-Jara",
-  "disponible": true
-}
-```
+<img src="https://img.shields.io/badge/-%20-0a0a0f?style=flat-square&labelColor=0a0a0f" height="1" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-`rodolfo@dev-machine:~$ ` <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60">
+<sub>rjaralopez19@gmail.com&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://rodolfo-jara.github.io/_/Pagina/index.html">rodolfo-jara.github.io</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/Rodolfo-Jara">github.com/Rodolfo-Jara</a></sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:12121a,100:0a0a0f&height=100&section=footer"/>
 
 </div>
