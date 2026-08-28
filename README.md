@@ -2,142 +2,114 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:12121a,100:0a0a0f&height=160&section=header"/>
-
-<br/>
-
-<h1 align="center" style="font-weight:200; letter-spacing:8px; color:#e8e8f0;">RODOLFO&nbsp;JARA</h1>
-
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;S O F T W A R E &nbsp; D E V E L O P E R&nbsp;&nbsp;&nbsp;&nbsp;</sub>
+<sub>PORTFOLIO / 2026</sub>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=300&size=15&duration=4000&pause=1500&color=A9B4C2&center=true&vCenter=true&width=460&letterSpacing=1px&lines=Java+%C2%B7+Spring+Boot+%C2%B7+Microservicios;Arquitectura+limpia%2C+c%C3%B3digo+claro" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=500&size=42&duration=1&pause=99999&color=F2F2F4&center=true&vCenter=true&width=500&height=60&lines=Rodolfo+Jara" />
+
+<sub>Backend developer construyendo sistemas con <b>Java</b> y <b>Spring Boot</b></sub>
 
 <br/><br/>
 
-<a href="https://rodolfo-jara.github.io/_/Pagina/index.html"><img src="https://img.shields.io/badge/PORTFOLIO-1a1a24?style=for-the-badge&labelColor=1a1a24&color=1a1a24"/></a>&nbsp;<a href="mailto:rjaralopez19@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a1a24?style=for-the-badge&labelColor=1a1a24&color=1a1a24"/></a>&nbsp;<a href="https://github.com/Rodolfo-Jara"><img src="https://img.shields.io/badge/GITHUB-1a1a24?style=for-the-badge&labelColor=1a1a24&color=1a1a24"/></a>
+<a href="https://rodolfo-jara.github.io/_/Pagina/index.html"><img src="https://img.shields.io/badge/Ver%20portfolio%20↗-7FFF8A?style=for-the-badge&labelColor=7FFF8A&color=7FFF8A"/></a>&nbsp;<a href="mailto:rjaralopez19@gmail.com"><img src="https://img.shields.io/badge/Contactar-0B0B0D?style=for-the-badge&labelColor=0B0B0D&color=0B0B0D"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/●%20disponible-0F1C10?style=flat-square&labelColor=0F1C10&color=0F1C10"/>
 
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20-0a0a0f?style=flat-square&labelColor=0a0a0f" height="1" width="100%"/>
+<img src="https://img.shields.io/badge/-%20-0b0b0d?style=flat-square&labelColor=0b0b0d" height="1" width="100%"/>
 
 <br/>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%">
 
-### Perfil
+**4+**
+<br/>
+<sub>años estudiando</sub>
 
-<sub>Ingeniero en Informática y Computación, enfocado en el desarrollo backend con Java y Spring Boot. Diseño soluciones con arquitectura de microservicios, priorizando código limpio y eficiente.</sub>
+</td>
+<td align="center" width="33%">
 
-</div>
+**Java**
+<br/>
+<sub>stack principal</sub>
 
-<br/><br/>
+</td>
+<td align="center" width="33%">
 
-<div align="center">
+**Open**
+<br/>
+<sub>a oportunidades</sub>
 
-### Stack
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Java-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=openjdk&logoColor=A9B4C2"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=springboot&logoColor=A9B4C2"/>
-<img src="https://img.shields.io/badge/Hibernate-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=hibernate&logoColor=A9B4C2"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MySQL-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=mysql&logoColor=A9B4C2"/>
-<img src="https://img.shields.io/badge/SQL%20Server-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=microsoftsqlserver&logoColor=A9B4C2"/>
-<img src="https://img.shields.io/badge/Azure-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=microsoftazure&logoColor=A9B4C2"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Angular-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=angular&logoColor=A9B4C2"/>
-<img src="https://img.shields.io/badge/React-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=react&logoColor=A9B4C2"/>
-<img src="https://img.shields.io/badge/Git-1a1a24?style=flat-square&labelColor=1a1a24&color=1a1a24&logo=git&logoColor=A9B4C2"/>
-
-</div>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-%20-0a0a0f?style=flat-square&labelColor=0a0a0f" height="1" width="100%"/>
+<img src="https://img.shields.io/badge/-%20-0b0b0d?style=flat-square&labelColor=0b0b0d" height="1" width="100%"/>
 
 <br/>
-
-<div align="center">
 
 ### Arquitectura
 
+<table>
+<tr><td width="36"><img src="https://img.shields.io/badge/1-0F1C10?style=flat-square&labelColor=0F1C10&color=0F1C10"/></td><td>Controller recibe la petición REST</td></tr>
+<tr><td><img src="https://img.shields.io/badge/2-0F1C10?style=flat-square&labelColor=0F1C10&color=0F1C10"/></td><td>Spring Security valida el acceso</td></tr>
+<tr><td><img src="https://img.shields.io/badge/3-0F1C10?style=flat-square&labelColor=0F1C10&color=0F1C10"/></td><td>Service ejecuta la lógica de negocio</td></tr>
+<tr><td><img src="https://img.shields.io/badge/4-0F1C10?style=flat-square&labelColor=0F1C10&color=0F1C10"/></td><td>Repository persiste vía JPA / Hibernate</td></tr>
+</table>
+
 <br/>
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {
-  'primaryColor':'#14141c',
-  'primaryBorderColor':'#3a3a4a',
-  'primaryTextColor':'#c9cddb',
-  'lineColor':'#3a3a4a',
-  'fontFamily':'Inter, sans-serif',
-  'fontSize':'13px'
-}}}%%
-flowchart LR
-    A(Cliente) --> B(Controller)
-    B --> C(Security)
-    C --> D(Service)
-    D --> E(Repository)
-    E --> F[(Base de Datos)]
+<img src="https://img.shields.io/badge/-%20-0b0b0d?style=flat-square&labelColor=0b0b0d" height="1" width="100%"/>
 
-    style A fill:#14141c,stroke:#3a3a4a,rx:20,ry:20
-    style B fill:#14141c,stroke:#3a3a4a,rx:20,ry:20
-    style C fill:#14141c,stroke:#3a3a4a,rx:20,ry:20
-    style D fill:#14141c,stroke:#3a3a4a,rx:20,ry:20
-    style E fill:#14141c,stroke:#3a3a4a,rx:20,ry:20
-    style F fill:#14141c,stroke:#3a3a4a,rx:8,ry:8
-```
+<br/>
 
-<sub>Flujo de una petición a través de las capas de la aplicación</sub>
+### Stack
 
-</div>
+<img src="https://img.shields.io/badge/Java-0B0B0D?style=flat-square&labelColor=0B0B0D&color=0B0B0D&logo=openjdk&logoColor=7FFF8A"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-0B0B0D?style=flat-square&labelColor=0B0B0D&color=0B0B0D&logo=springboot&logoColor=7FFF8A"/>
+<img src="https://img.shields.io/badge/Hibernate-0B0B0D?style=flat-square&labelColor=0B0B0D&color=0B0B0D&logo=hibernate&logoColor=7FFF8A"/>
+<img src="https://img.shields.io/badge/MySQL-0B0B0D?style=flat-square&labelColor=0B0B0D&color=0B0B0D&logo=mysql&logoColor=7FFF8A"/>
+<img src="https://img.shields.io/badge/Angular-0B0B0D?style=flat-square&labelColor=0B0B0D&color=0B0B0D&logo=angular&logoColor=7FFF8A"/>
+<img src="https://img.shields.io/badge/React-0B0B0D?style=flat-square&labelColor=0B0B0D&color=0B0B0D&logo=react&logoColor=7FFF8A"/>
+<img src="https://img.shields.io/badge/Git-0B0B0D?style=flat-square&labelColor=0B0B0D&color=0B0B0D&logo=git&logoColor=7FFF8A"/>
+<img src="https://img.shields.io/badge/Azure-0B0B0D?style=flat-square&labelColor=0B0B0D&color=0B0B0D&logo=microsoftazure&logoColor=7FFF8A"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-%20-0a0a0f?style=flat-square&labelColor=0a0a0f" height="1" width="100%"/>
+<img src="https://img.shields.io/badge/-%20-0b0b0d?style=flat-square&labelColor=0b0b0d" height="1" width="100%"/>
 
 <br/>
 
-<div align="center">
-
-### Proyecto
-
-<br/>
+### Proyecto destacado
 
 <a href="https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodolfo-Jara&repo=ProyectoSistemaDeCalificaciones&theme=transparent&hide_border=true&title_color=c9cddb&text_color=6b7280&icon_color=A9B4C2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodolfo-Jara&repo=ProyectoSistemaDeCalificaciones&theme=dark&hide_border=true&title_color=7FFF8A&text_color=8a8a92&bg_color=0f0f11"/>
 </a>
-
-</div>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-%20-0a0a0f?style=flat-square&labelColor=0a0a0f" height="1" width="100%"/>
 
 <br/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/-%20-0b0b0d?style=flat-square&labelColor=0b0b0d" height="1" width="100%"/>
+
+<br/>
 
 ### Estadísticas
 
-<br/>
-
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=rodolfo-jara&show_icons=true&count_private=true&hide_border=true&title_color=c9cddb&icon_color=A9B4C2&text_color=6b7280&bg_color=00000000"/>
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-jara&layout=compact&hide_border=true&title_color=c9cddb&text_color=6b7280&bg_color=00000000"/>
-
-</div>
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=rodolfo-jara&show_icons=true&count_private=true&hide_border=true&title_color=7FFF8A&icon_color=7FFF8A&text_color=8a8a92&bg_color=0f0f11"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-jara&layout=compact&hide_border=true&title_color=7FFF8A&text_color=8a8a92&bg_color=0f0f11"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-%20-0a0a0f?style=flat-square&labelColor=0a0a0f" height="1" width="100%"/>
+<img src="https://img.shields.io/badge/-%20-0b0b0d?style=flat-square&labelColor=0b0b0d" height="1" width="100%"/>
 
 <br/>
 
@@ -145,8 +117,6 @@ flowchart LR
 
 <sub>rjaralopez19@gmail.com&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://rodolfo-jara.github.io/_/Pagina/index.html">rodolfo-jara.github.io</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/Rodolfo-Jara">github.com/Rodolfo-Jara</a></sub>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:12121a,100:0a0a0f&height=100&section=footer"/>
-
 </div>
+
+<br/>
