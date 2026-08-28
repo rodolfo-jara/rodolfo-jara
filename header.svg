@@ -1,0 +1,20 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="1198" height="318" rx="20" fill="#0b0b0d" stroke="#1f1f23" stroke-width="1"/>
+
+  <text x="48" y="56" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#5c5c63">PORTFOLIO / 2026</text>
+
+  <rect x="1028" y="38" width="124" height="28" rx="14" fill="#7FFF8A"/>
+  <circle cx="1046" cy="52" r="4" fill="#0b0b0d"/>
+  <text x="1058" y="56" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#0b0b0d">disponible</text>
+
+  <text x="48" y="180" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#f2f2f4">Rodolfo Jara</text>
+
+  <rect x="49" y="200" width="64" height="4" rx="2" fill="#7FFF8A"/>
+
+  <text x="48" y="248" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#8a8a92">Backend developer construyendo sistemas con
+    <tspan fill="#7FFF8A" font-weight="600">Java</tspan> y
+    <tspan fill="#7FFF8A" font-weight="600">Spring Boot</tspan>
+  </text>
+
+  <text x="48" y="284" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5c5c63">Ingeniero en Informática y Computación</text>
+</svg>
