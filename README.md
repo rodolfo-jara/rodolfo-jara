@@ -1,28 +1,16 @@
 <div align="center">
 
-<br/>
-
-<sub>PORTFOLIO / 2026</sub>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=500&size=42&duration=1&pause=99999&color=F2F2F4&center=true&vCenter=true&width=500&height=60&lines=Rodolfo+Jara" />
-
-<sub>Backend developer construyendo sistemas con <b>Java</b> y <b>Spring Boot</b></sub>
+<img src="./header.svg" width="100%"/>
 
 <br/><br/>
 
 <a href="https://rodolfo-jara.github.io/_/Pagina/index.html"><img src="https://img.shields.io/badge/Ver%20portfolio%20↗-7FFF8A?style=for-the-badge&labelColor=7FFF8A&color=7FFF8A"/></a>&nbsp;<a href="mailto:rjaralopez19@gmail.com"><img src="https://img.shields.io/badge/Contactar-0B0B0D?style=for-the-badge&labelColor=0B0B0D&color=0B0B0D"/></a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/●%20disponible-0F1C10?style=flat-square&labelColor=0F1C10&color=0F1C10"/>
-
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20-0b0b0d?style=flat-square&labelColor=0b0b0d" height="1" width="100%"/>
+<img src="https://img.shields.io/badge/-%20-7FFF8A?style=flat-square&labelColor=7FFF8A&color=7FFF8A" height="2" width="100%"/>
 
 <br/>
 
@@ -54,22 +42,22 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20-0b0b0d?style=flat-square&labelColor=0b0b0d" height="1" width="100%"/>
+<img src="https://img.shields.io/badge/-%20-7FFF8A?style=flat-square&labelColor=7FFF8A&color=7FFF8A" height="2" width="100%"/>
 
 <br/>
 
 ### Arquitectura
 
 <table>
-<tr><td width="36"><img src="https://img.shields.io/badge/1-0F1C10?style=flat-square&labelColor=0F1C10&color=0F1C10"/></td><td>Controller recibe la petición REST</td></tr>
-<tr><td><img src="https://img.shields.io/badge/2-0F1C10?style=flat-square&labelColor=0F1C10&color=0F1C10"/></td><td>Spring Security valida el acceso</td></tr>
-<tr><td><img src="https://img.shields.io/badge/3-0F1C10?style=flat-square&labelColor=0F1C10&color=0F1C10"/></td><td>Service ejecuta la lógica de negocio</td></tr>
-<tr><td><img src="https://img.shields.io/badge/4-0F1C10?style=flat-square&labelColor=0F1C10&color=0F1C10"/></td><td>Repository persiste vía JPA / Hibernate</td></tr>
+<tr><td width="36"><img src="https://img.shields.io/badge/1-7FFF8A?style=flat-square&labelColor=7FFF8A&color=7FFF8A"/></td><td>Controller recibe la petición REST</td></tr>
+<tr><td><img src="https://img.shields.io/badge/2-7FFF8A?style=flat-square&labelColor=7FFF8A&color=7FFF8A"/></td><td>Spring Security valida el acceso</td></tr>
+<tr><td><img src="https://img.shields.io/badge/3-7FFF8A?style=flat-square&labelColor=7FFF8A&color=7FFF8A"/></td><td>Service ejecuta la lógica de negocio</td></tr>
+<tr><td><img src="https://img.shields.io/badge/4-7FFF8A?style=flat-square&labelColor=7FFF8A&color=7FFF8A"/></td><td>Repository persiste vía JPA / Hibernate</td></tr>
 </table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20-0b0b0d?style=flat-square&labelColor=0b0b0d" height="1" width="100%"/>
+<img src="https://img.shields.io/badge/-%20-7FFF8A?style=flat-square&labelColor=7FFF8A&color=7FFF8A" height="2" width="100%"/>
 
 <br/>
 
@@ -86,7 +74,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-%20-0b0b0d?style=flat-square&labelColor=0b0b0d" height="1" width="100%"/>
+<img src="https://img.shields.io/badge/-%20-7FFF8A?style=flat-square&labelColor=7FFF8A&color=7FFF8A" height="2" width="100%"/>
 
 <br/>
 
@@ -98,7 +86,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20-0b0b0d?style=flat-square&labelColor=0b0b0d" height="1" width="100%"/>
+<img src="https://img.shields.io/badge/-%20-7FFF8A?style=flat-square&labelColor=7FFF8A&color=7FFF8A" height="2" width="100%"/>
 
 <br/>
 
@@ -109,7 +97,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-%20-0b0b0d?style=flat-square&labelColor=0b0b0d" height="1" width="100%"/>
+<img src="https://img.shields.io/badge/-%20-7FFF8A?style=flat-square&labelColor=7FFF8A&color=7FFF8A" height="2" width="100%"/>
 
 <br/>
 
